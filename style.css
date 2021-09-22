@@ -1,0 +1,16 @@
+.table{
+    position: absolute;
+    width: 95%;
+    left: 2.5%;
+    top: 9%;
+}
+
+form{
+    position: relative;
+    display:flex;
+    margin-top:2%;
+    left: 42.5%;
+}
+button{
+    margin-left: 2px;
+}
